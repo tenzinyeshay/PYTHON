@@ -55,28 +55,13 @@ This project analyzes customer churn data from a retail bank using Python and Ju
 
 ---
 
-## 🧱 Project Structure
-
-bank-churn-genai/
-│
-├── data/
-│ └── Bank_Churn.csv
-│
-├── notebooks/
-│ └── Bank_Churn_Analysis_Chatbot.ipynb
-│
-├── .env # For API keys
-├── requirements.txt
-└── README.md
-
 ## 🛠️ Technologies Used
 
 - Python 3.x
 - Jupyter Notebook
 - Pandas, NumPy
 - Seaborn, Matplotlib
-- OpenAI API (or other LLM)
-- python-dotenv (for secure API key loading)
+- Gemini API (or other LLM)
 
 ---
 
