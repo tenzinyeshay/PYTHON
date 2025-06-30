@@ -84,6 +84,6 @@ bank-churn-genai/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/tenzinyeshay/bank-churn-genai.git
+git clone https://github.com/tenzinyeshay/Python-bank-churn-genai.git
 cd bank-churn-genai
 
