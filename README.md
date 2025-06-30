@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project analyzes customer churn data from a retail bank using Python and Jupyter Notebook. The goal is to explore the dataset to understand customer behavior and churn patterns, and to integrate a Generative AI-powered chatbot within the notebook that can answer natural language questions based on the analysis — no machine learning model is used.
+This project analyzes customer churn data from a retail bank using Python and Jupyter Notebook. The goal is to explore the dataset to understand customer behavior and churn patterns, and to integrate a Generative AI-powered chatbot within the notebook that can answer natural language questions based on the analysis.
 
 ---
 
