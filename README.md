@@ -9,7 +9,7 @@ This project analyzes customer churn data from a retail bank using Python and Ju
 ## 🎯 Objectives
 
 - Perform exploratory data analysis (EDA) on bank customer churn data
-- Visualize patterns and trends related to churn (e.g. age, geography, balance)
+- Visualize patterns and trends related to churn (e.g. age, geography, balance, creditscore)
 - Enable a conversational interface using GenAI (OpenAI GPT or similar) to answer business-oriented questions directly in the notebook
 
 ---
@@ -64,6 +64,30 @@ This project analyzes customer churn data from a retail bank using Python and Ju
 - Gemini API (or other LLM)
 
 ---
+
+## Sample Output
+
+    📉 Overall Churn Rate: 20.4%
+
+    🌍 Geography Breakdown:
+
+        Germany shows the highest churn rate at 32.1%
+
+        France and Spain have lower churn rates at 16.2% and 18.7% respectively
+
+  ##  💬 Sample Chatbot Q&A:
+
+    User: "What types of customers are most likely to churn?"
+
+    Chatbot:
+
+        "Customers from Germany, aged over 45, with high balances but low product engagement, and who are inactive, show the highest churn risk."
+
+    User: "Give me one strategy to reduce churn."
+
+    Chatbot:
+
+        "Target inactive older customers with personalized engagement campaigns and incentives to adopt more products."
 
 ## 🚀 How to Run the Notebook
 
